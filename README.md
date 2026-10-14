@@ -4,12 +4,14 @@
 
 ### Software Developer | AI Engineer | Full Stack Developer | Cybersecurity
 
-Building practical software, intelligent AI applications, full-stack products, and secure digital experiences.
+Building practical software, intelligent AI applications, and secure digital experiences.
 
 <p>
-  <a href="https://aditya-maurya-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/adityamaurya03"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Adityaaun?tab=repositories"><img src="https://img.shields.io/badge/My_Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="My Projects"></a>
+  <a href="https://aditya-maurya-portfolio.vercel.app/">🌐 <strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/adityamaurya03">💼 <strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Adityaaun?tab=repositories">🗂️ <strong>My Projects</strong></a>
 </p>
 
 </div>
@@ -18,13 +20,11 @@ Building practical software, intelligent AI applications, full-stack products, a
 
 ## 👨‍💻 About Me
 
+- 💼 **Software Developer Intern** at Binaried Technologies Pvt. Ltd., Bengaluru.
+- 💻 Interested in **software and full-stack development**—building reliable applications, polished interfaces, and scalable APIs.
+- 🤖 Exploring **AI engineering**, including LLM applications, RAG pipelines, and agentic systems.
+- 🛡️ Interested in **application/API security**, secure system design, and AI-agent security.
 - 🎓 BE in Computer Science and Engineering, specializing in Cyber Security — 2026.
-- 💼 Software Developer Intern at **Binaried Technologies Pvt. Ltd., Bengaluru**.
-- 💻 Interested in software development and building reliable, maintainable applications.
-- 🌐 Interested in full-stack development, from intuitive frontend experiences to scalable backend APIs.
-- 🤖 Interested in AI engineering, LLM applications, RAG pipelines, and agentic systems.
-- 🛡️ Interested in application/API security, secure system design, and evaluating AI-agent risks.
-- 🧩 I enjoy turning ideas into practical products by combining software engineering, AI, and security.
 
 ## 🧰 Tech Stack
 
