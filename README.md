@@ -4,12 +4,12 @@
 
 ### Software Developer | AI Engineer | Full Stack Developer | Cybersecurity
 
-Building practical software, intelligent AI applications, and secure digital experiences.
+Building practical software, intelligent AI applications, full-stack products, and secure digital experiences.
 
 <p>
   <a href="https://aditya-maurya-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/adityamaurya03"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Adityaaun"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/Adityaaun?tab=repositories"><img src="https://img.shields.io/badge/My_Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="My Projects"></a>
 </p>
 
 </div>
@@ -19,10 +19,12 @@ Building practical software, intelligent AI applications, and secure digital exp
 ## 👨‍💻 About Me
 
 - 🎓 BE in Computer Science and Engineering, specializing in Cyber Security — 2026.
-- 💼 Full Stack Developer Intern at **Binaried Technologies Pvt. Ltd., Bengaluru**.
+- 💼 Software Developer Intern at **Binaried Technologies Pvt. Ltd., Bengaluru**.
+- 💻 Interested in software development and building reliable, maintainable applications.
+- 🌐 Interested in full-stack development, from intuitive frontend experiences to scalable backend APIs.
 - 🤖 Interested in AI engineering, LLM applications, RAG pipelines, and agentic systems.
-- 🛡️ Interested in application security, secure system design, and evaluating AI-agent risks.
-- 🧩 I enjoy turning ideas into usable products, from backend APIs to polished interfaces.
+- 🛡️ Interested in application/API security, secure system design, and evaluating AI-agent risks.
+- 🧩 I enjoy turning ideas into practical products by combining software engineering, AI, and security.
 
 ## 🧰 Tech Stack
 
@@ -32,7 +34,7 @@ Building practical software, intelligent AI applications, and secure digital exp
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frontend and Backend**
 
@@ -47,11 +49,13 @@ Building practical software, intelligent AI applications, and secure digital exp
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ## 🚀 Featured Projects
 
@@ -59,37 +63,37 @@ Building practical software, intelligent AI applications, and secure digital exp
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/Adityaaun/AgentShield">AgentShield</a></h3>
-      <p>An empirical evaluation platform for testing security controls against adversarial workloads targeting LLM agents.</p>
-      <p><strong>Focus:</strong> AI agent security, policy enforcement, sandboxing, evidence-based evaluation.</p>
+      <p>An empirical evaluation platform for testing how security controls perform against adversarial workloads targeting LLM agents.</p>
+      <p><strong>Focus:</strong> AI-agent security, policy enforcement, sandboxing, evidence-based evaluation.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🔎 <a href="https://github.com/Adityaaun/Hasamex-AI-Research-Platform">Hasamex AI Research Platform</a></h3>
-      <p>An evidence-oriented research workflow for exploring expert-call transcripts, retrieving supporting evidence, and producing grounded answers.</p>
-      <p><strong>Focus:</strong> RAG, transcript analysis, evidence validation, AI research.</p>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/Adityaaun/Veritas-Rag">Veritas-RAG</a></h3>
       <p>A retrieval-augmented generation project focused on document-based question answering and research workflows.</p>
       <p><strong>Focus:</strong> Python, retrieval, LLM applications.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>💻 <a href="https://github.com/Adityaaun/Code-Sync-Arena-Build">CodeSync Arena</a></h3>
-      <p>A collaborative coding project designed around interactive coding workflows and developer tooling.</p>
+      <p>A collaborative coding project built around interactive coding workflows and developer tooling.</p>
       <p><strong>Focus:</strong> TypeScript, web development, coding tools.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/Adityaaun/Secure-Health-Auth-App">Secure Health Authentication App</a></h3>
+      <p>A full-stack healthcare application project emphasizing authentication and application-security features.</p>
+      <p><strong>Focus:</strong> TypeScript, MERN, authentication, security-oriented design.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧩 <a href="https://github.com/Adityaaun/LeetCode-AI-Assistant---Chrome-Extension">LeetCode AI Assistant</a></h3>
-      <p>A Chrome extension for step-by-step hints, AI-assisted code review, and complexity analysis for coding problems.</p>
-      <p><strong>Focus:</strong> JavaScript, browser extensions, Gemini API.</p>
+      <h3>💞 <a href="https://github.com/Adityaaun/agentic-dating-platform">Agentic Dating Platform</a></h3>
+      <p>An AI-agent dating platform concept exploring how agents can help people discover and evaluate potential matches.</p>
+      <p><strong>Focus:</strong> AI agents, matching workflows, product development.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/Adityaaun/Secure-Health-Auth-App">Secure Health Auth App</a></h3>
-      <p>A full-stack healthcare application project emphasizing authentication and application-security features.</p>
-      <p><strong>Focus:</strong> TypeScript, MERN, authentication, security-oriented design.</p>
+      <h3>🧩 <a href="https://github.com/Adityaaun/LeetCode-AI-Assistant---Chrome-Extension">LeetCode AI Assistant</a></h3>
+      <p>A Chrome extension offering step-by-step hints, AI-assisted code reviews, and complexity analysis for coding problems.</p>
+      <p><strong>Focus:</strong> JavaScript, browser extensions, Gemini API.</p>
     </td>
   </tr>
 </table>
@@ -117,7 +121,7 @@ Building practical software, intelligent AI applications, and secure digital exp
 
 - 🌐 **Portfolio:** [aditya-maurya-portfolio.vercel.app](https://aditya-maurya-portfolio.vercel.app/)
 - 💼 **LinkedIn:** [adityamaurya03](https://linkedin.com/in/adityamaurya03)
-- 🧑‍💻 **GitHub:** [@Adityaaun](https://github.com/Adityaaun)
+- 🧑‍💻 **Projects:** [Explore my repositories](https://github.com/Adityaaun?tab=repositories)
 
 ---
 
